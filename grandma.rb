@@ -4,6 +4,7 @@ def speak_to_grandma(grandma)
     return "I LOVE YOU TOO PUMPKIN!"
   elsif grandma.upcase
     return "HUH?! SPEAK UP, SONNY!"
+  else
   end
 end
 
