@@ -1,4 +1,5 @@
 # Write a speak_to_grandma method.
+gradma = "I LOVE YOU GRANDMA!"
 def speak_to_grandma
   if "words".upcase
     puts "HUH?! SPEAK UP, SONNY!"
