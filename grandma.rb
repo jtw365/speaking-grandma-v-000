@@ -3,6 +3,7 @@ gradma = "I LOVE YOU GRANDMA!"
 def speak_to_grandma
   if grandma == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
+  end
 end
 
 # Whatever you say to grandma, she should respond with
