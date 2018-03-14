@@ -2,7 +2,7 @@
 grandma = "WORDS"
 def speak_to_grandma
   if grandma.upcase
-    puts
+    puts "HUH?! SPEAK UP, SONNY!"
   end
 end
 
